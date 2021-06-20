@@ -18,7 +18,7 @@ function showARNfromADN(copiedADN) {
       console.log("type in azotic bases");
     }
 }
-showARNfromADN("cgcgatatatgggtttagta")
+showARNfromADN("CGCGATATATGGGTTTAGTA")
 // results 
 //copiedADN = CGCGATATATGGGTTTAGTA
 // nonCopiedADN = GCGCTATATACCCAAATCAT 
